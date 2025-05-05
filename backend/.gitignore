@@ -1,0 +1,21 @@
+# Node modules (for frontend)
+frontend/node_modules/
+
+# Maven target folder (for backend)
+backend/target/
+
+# IDE generated files
+.settings/
+.classpath
+.factorypath
+.project
+
+# Logs
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# VSCode settings (optional, common)
+.vscode/
